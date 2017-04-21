@@ -1,0 +1,7 @@
+https://www.otexts.org/fpp
+
+http://robjhyndman.com/
+
+http://robjhyndman.com/hyndsight/
+
+http://robjhyndman.com/hyndsight/out-of-sample-one-step-forecasts/
