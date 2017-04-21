@@ -1,7 +1,7 @@
 # UCT_hons_proj 2017 (Updated 21 April 2017)
 
 ## Terms of use
-This is my personal collection of work, summaries and journal articles. I thus do ask, that if you use this material, that we have a mutual agreement you do not distribute the code **too** freely. 
+### *This is my personal collection of work, summaries and journal articles. I thus do ask, that if you use this material, that we have a mutual agreement you do not distribute the code too freely*. 
 
 ## Deadlines
 
@@ -44,6 +44,6 @@ I have divided up the folder in three structures
  * [Readings on forecasting](Readings - Forecasting)
  * [Readings on Techincal Trading](Readings - TC)
  
+# And Remember...
  
- # And Remember
- [](logo.png)
+![](logo.png)
