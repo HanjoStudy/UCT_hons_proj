@@ -5,3 +5,5 @@ http://robjhyndman.com/
 http://robjhyndman.com/hyndsight/
 
 http://robjhyndman.com/hyndsight/out-of-sample-one-step-forecasts/
+
+http://www.kdnuggets.com/2017/04/time-series-analysis-generalized-additive-models.html
