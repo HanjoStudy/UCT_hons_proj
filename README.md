@@ -1,4 +1,4 @@
-# UCT_hons_proj 2017 (Updated 21 April 2017)
+# UCT_hons_proj 2017 (Updated 2 May 2017)
 
 ## Terms of use
 ### *This is my personal collection of work, summaries and journal articles. I thus do ask, that if you use this material, that we have a mutual agreement you do not distribute the code too freely. If you enjoy the books that are here, I would encourage you to buy a hardcopy - its always nice to have the physical copy to work from*.
