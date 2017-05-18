@@ -9,3 +9,4 @@ http://robjhyndman.com/hyndsight/out-of-sample-one-step-forecasts/
 http://www.kdnuggets.com/2017/04/time-series-analysis-generalized-additive-models.html
 
 http://www.rdatamining.com/examples/time-series-forecasting
+http://www.sciencedirect.com/science/article/pii/S030142071500029X
